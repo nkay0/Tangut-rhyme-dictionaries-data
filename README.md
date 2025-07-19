@@ -2,6 +2,8 @@
 
 西夏語韻書データ
 
+<img width="1868" height="782" alt="image" src="https://github.com/user-attachments/assets/1b7290c2-2215-4269-803c-70a1df93c282" />
+
 ## カラム一覧
 
 1. **文字** \
