@@ -6,6 +6,8 @@
 
 ## カラム一覧
 
+0. **seq** \
+    本データの通し番号。
 1. **文字** \
     西夏文字。
 2. **Unicode** \
@@ -87,6 +89,7 @@
 
 ## 参考文献
 
+- Beaudouin, Mathieu. (2026). *The Digital Wenhai: A Unicode-Compliant Dataset of the Backbone of Tangut Linguistics and Philology (Version 1.2: Phonology) [Dataset]*. Zenodo.
 - Gong, Xun. (2021). “Nasal Preinitials in Tangut Phonology.” *Archiv orientální* 89(3): 443–482.
 - Kychanov, Evgenij. (2006). *Словарь тангутского (Си Ся) языка - Тангутско-русско-англо-китайский словарь*. Kyoto: Faculty of Letters, Kyoto University.
 - Miyake, Marc. (2019). Tangut Phonetic Database (v4.0).
